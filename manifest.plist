@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                   <string>http://w2mes.csc.com.tw/w2mes/XF_SLWR.iOS.ipa</string>
+                    <string>http://w2mes.csc.com.tw/w2mes/ios.ipa</string>
                 </dict>
  		<dict>
                     <key>kind</key>
